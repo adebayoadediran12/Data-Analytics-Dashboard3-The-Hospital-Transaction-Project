@@ -94,6 +94,11 @@ The hospital transaction analysis covers 230 records from 2021–2023, highlight
 
 
 
+**Tools & Technology Used:** Power BI was used for data querying, dashboard design, and visualization. This enabled efficient data transformation, interactive reporting, and insightful hospital transaction analysis.
+
+
+
+
 
 
 
