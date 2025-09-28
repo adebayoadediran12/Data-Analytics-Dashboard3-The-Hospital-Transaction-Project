@@ -1,4 +1,4 @@
-# Data-Analytics-Dashboard3-The-Hospital-Transaction-Project
+# Data-Analytics-Dashboard3-The-Hospital-Transaction-Project-PowerBI
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b6b42283-d6fb-47b4-a257-1d92f9e02d22" />
 
