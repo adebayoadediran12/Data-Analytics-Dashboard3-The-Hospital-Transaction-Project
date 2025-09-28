@@ -4,3 +4,10 @@
 
 
 The hospital transaction analysis covers 230 records from 2021–2023, highlighting $274,000 revenue, $189,000 expenses, and $84,140 profit (30.8% margin). It evaluates 81 doctors and 86 patients, identifies top specialties like Dermatology and Cardiology, reveals seasonal trends, and recommends cost control, resource optimization, , and incentives to enhance profitability and operations.
+
+
+**Dataset Overview**
+**Dataset Composition:** The dataset contains 230 hospital transactions from early 2021 to mid-2023 with rich operational data.
+**Financial and Operational Metrics:** Includes revenue, expenses, doctor, and patient details to analyze hospital financial performance and operations.
+**Visual Summary Dashboards:** Two dashboards summarize key metrics and trends, providing a clear snapshot of hospital operations.
+
