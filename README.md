@@ -14,3 +14,12 @@ The hospital transaction analysis covers 230 records from 2021–2023, highlight
 
 **Visual Summary Dashboards:** Two dashboards summarize key metrics and trends, providing a clear snapshot of hospital operations.
 
+**Financial and Operational Metrics**
+
+**Financial Performance Summary:** Total revenue reached $274,000 with expenses at $189,000, yielding a profit of $84,140 and a 30.8% profit margin.
+
+**Operational Data Overview:** Hospital operations include 81 unique doctors and 86 patients, reflecting healthcare service reach and management.
+
+**Time Span of Data:** Data covers transactions from January 2021 to August 2023, providing a comprehensive multi-year operational view.
+
+
