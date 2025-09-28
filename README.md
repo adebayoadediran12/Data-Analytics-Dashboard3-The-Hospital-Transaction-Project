@@ -7,7 +7,10 @@ The hospital transaction analysis covers 230 records from 2021–2023, highlight
 
 
 **Dataset Overview**
+
 **Dataset Composition:** The dataset contains 230 hospital transactions from early 2021 to mid-2023 with rich operational data.
+
 **Financial and Operational Metrics:** Includes revenue, expenses, doctor, and patient details to analyze hospital financial performance and operations.
+
 **Visual Summary Dashboards:** Two dashboards summarize key metrics and trends, providing a clear snapshot of hospital operations.
 
